@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "{{}}",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "WEBSITE_NODE_DEFAULT_VERSION": "~12",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "{{}}",
+    "WEBSITE_CONTENTSHARE": "{{}}",
+    "WEBSITE_RUN_FROM_PACKAGE": "1",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "bb3b49ba-f3e3-49e7-aac6-880bfbd17152",
+    "nisalsfirstfunctioncosmosdb_DOCUMENTDB": "{{}}"
+  }
+}
